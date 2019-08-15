@@ -36,9 +36,6 @@ img{
   margin-right: auto;
 }
 
-
-
-
 .column {
   width: 250px;
   float: left;
@@ -46,9 +43,27 @@ img{
   border-style: dashed;
   padding: 20px;
   text-align: center;
+  margin-top: 20px;
+  margin-bottom: auto;
+  display: block;
+
+}
+
+.a {
+  background-color: purple;
+
+}
+
+.b {
+  background-color: green;
+}
+
+.c {
+  background-color: blue;
+
+}
 
 
-
-
-
+.c2 {
+  color: red;
 }
