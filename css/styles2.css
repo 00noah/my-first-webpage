@@ -23,12 +23,18 @@ p.intro {
   text-align: center;
 }
 
-img.intro {
-  float: right;
-  filter: blur(99);
-}
+
 
 
 h1.title {
   color: Purple;
+}
+
+img{
+  float:left;
+}
+
+.column{
+  width: 400px;
+  float: right;
 }
